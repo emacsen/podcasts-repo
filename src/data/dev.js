@@ -115,6 +115,12 @@ const dev = [
     image: 'https://gdurl.com/C0Dy',
     url: 'https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/',
   },
+  {
+    title: 'Libre Lounge',
+    description: 'A casual podcast about user freedom',
+    image: 'https://librelounge.org/static/images/ll-logo-square.png',
+    url: 'https://librelounge.org',
+  }
 ];
 
 export default dev;
